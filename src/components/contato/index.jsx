@@ -7,7 +7,7 @@ export const Contato = () => {
             <img src="img/bolhas-esquerda.svg" alt="bolhas" height='200px'/>
             <section class='texto-contato'>
                 <h1 id='titulo-contato'>Entre em contato</h1>
-                <p>No momento não estou procurando um estágio, mas caso queira me encontrar você pode mandar um e-mail para <strong>milenagarcia.dev@gmail.com</strong>.</p>
+                <p>No momento estou procurando um estágio para aprimorar minhas experiências. Caso queira entrar em contato você pode mandar um e-mail para <strong>milenagarcia.dev@gmail.com</strong>.</p>
                 <br/>   
                 <section class="redes">
                     <a href="https://github.com/MilenaGarciaCosta" target="_blank"><img src="img/github-logo.svg" alt="github"/></a>
