@@ -8,7 +8,7 @@ export const Inicio = () =>{
                 <section class='texto-centro'>
                     <h3>Olá mundo! Eu me chamo</h3>
                     <h1>Milena Garcia</h1>
-                    <h3>aspirante em desenvolvimento Front-end</h3>
+                    <h3>estudante de engenharia de software.</h3>
                 </section>
                 <img src="img/bolhas-direita.svg" alt='bolhas' height='200px'/>
             </section>
